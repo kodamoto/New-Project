@@ -2,3 +2,4 @@ New Project :
 - install DB oracle
 - install DB postgres
 - install DB mysql
+- install docker
